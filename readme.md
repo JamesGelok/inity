@@ -2,7 +2,7 @@
 
 > ✨ Custom Magic Initializers 🧙
 
-## Install
+## Installation
 
 ### Yarn
 
