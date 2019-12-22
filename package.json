@@ -1,0 +1,36 @@
+{
+	"name": "inity",
+	"version": "0.5.0",
+	"description": "Magic Initialization using destructuring assignment",
+	"license": "MIT",
+	"repository": "JamesGelok/inity",
+	"author": {
+		"name": "James Gelok",
+		"email": "JamesGelokPublicEmail@gmail.com",
+		"url": "https://JamesGelok.com/"
+	},
+	"engines": {
+		"node": ">=8"
+	},
+	"scripts": {
+		"test": "echo 'sorry no testing yet'"
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		"inity",
+		"initializer",
+		"initialization",
+		"magic objects",
+		"magic object",
+		"magic initialization",
+		"magic",
+		"shorthand",
+		"objects",
+		"destructuring",
+		"destructuring assignment"
+	],
+	"dependencies": {},
+	"devDependencies": {}
+}
