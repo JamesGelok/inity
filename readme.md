@@ -15,9 +15,9 @@ import Init from "inity";
 
 // Sample class that holds a value
 class Value {
-	constructor(n) {
-		this.n = n;
-	}
+  constructor(n) {
+    this.n = n;
+  }
 }
 ```
 
