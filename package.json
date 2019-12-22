@@ -1,6 +1,6 @@
 {
 	"name": "inity",
-	"version": "0.5.0",
+	"version": "0.5.1",
 	"description": "Magic Initialization using destructuring assignment",
 	"license": "MIT",
 	"repository": "JamesGelok/inity",
