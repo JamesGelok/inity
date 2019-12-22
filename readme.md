@@ -4,8 +4,16 @@
 
 ## Install
 
+### Yarn
+
 ```
-$ npm install inity
+yarn add inity
+```
+
+### npm
+
+```
+npm install inity
 ```
 
 ## Usage
