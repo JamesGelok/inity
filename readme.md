@@ -25,10 +25,11 @@ class Value {
 
 ```js
 const { posX, posY, velX, velY, accX, accY, score, state } = new Init(Value)(0);
-posX.n = 42;
-console.log(posX.n, posY.n);
-// 15, 0
 /* each variable has its own UNIQUE value class */
+
+posX.n = 42;
+console.log(`${posX.n}, ${posY.n}`);
+// 15, 0
 ```
 
 ### 💩 ...rather than in a big block...
