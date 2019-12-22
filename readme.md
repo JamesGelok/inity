@@ -1,6 +1,6 @@
 # inity
 
-> Magic Initializer Objects
+> ✨ Custom Magic Initializers 🧙
 
 ## Install
 
