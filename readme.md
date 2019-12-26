@@ -1,6 +1,7 @@
-# inity
-
-> ✨ Custom Magic Initializers 🧙
+<p align="center">
+  <h1 align="center">inity</h1>
+  <h3 align="center">✨ Custom Magic Initializers 🧙</h3>
+</p>
 
 ## Installation
 
