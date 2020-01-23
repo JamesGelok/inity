@@ -51,3 +51,7 @@ const velY = new Value(0);
 const score = new Value(0);
 const state = new Value(0);
 ```
+
+![But Wait There's More!](https://media1.tenor.com/images/cbf642d6a9033e5953037624dd7882f0/tenor.gif)
+
+### λ Call Functions 
